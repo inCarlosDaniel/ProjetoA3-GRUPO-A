@@ -3,7 +3,8 @@
 ## Membros:
 - Carlos Daniel de Souza Oliveira 
 - Millena Aragão Tavares  
-- Priscilla dos Santos Silva 
+- Priscilla dos Santos Silva
+- Paulo
 - Rachel Moreira Damasceno Coelho 
 
 ## Descrição:
