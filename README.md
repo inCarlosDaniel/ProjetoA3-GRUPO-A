@@ -1,11 +1,10 @@
 # Projeto A2 – Grupo A (Turma 2G)
 
 ## Membros:
-- Carlos Daniel de Souza Oliveira – 380083  
-- Millena Aragão Tavares – 38044x  
-- Paulo  
-- Priscilla dos Santos Silva – 3744x  
-- Rachel Moreira Damasceno Coelho – 380261
+- Carlos Daniel de Souza Oliveira 
+- Millena Aragão Tavares  
+- Priscilla dos Santos Silva 
+- Rachel Moreira Damasceno Coelho 
 
 ## Descrição:
 Projeto de conversor de temperatura desenvolvido com Java e Programação Orientada a Objetos (POO).
