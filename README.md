@@ -11,7 +11,7 @@ Projeto de conversor de temperatura desenvolvido com Java e Programação Orient
 
 ## Tecnologias:
 - Java
-- POO: Herança, Polimorfismo, Encapsulamento, Interface, Classe Abstrata
+- POO: Classes, Objetos, Atributos, Métodos, Construtores, Herança, Polimorfismo, Encapsulamento, Interface, Classe Abstrata e Sobrecarga de Métodos
 - IDE: NetBeans
 ## Funcionalidades:
 - Conversão entre Celsius, Fahrenheit e Kelvin
